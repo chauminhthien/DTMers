@@ -1,0 +1,6 @@
+#Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^(.*)$ public/$1 [L]
+#ErrorDocument 404 http://www.example.com/404.html
+
+

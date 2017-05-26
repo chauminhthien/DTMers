@@ -1,0 +1,6 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+#ErrorDocument 404 http://www.example.com/404.html
+
+
